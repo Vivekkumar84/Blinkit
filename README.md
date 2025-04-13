@@ -1,4 +1,4 @@
-#Blinkit DashBoard
+# Blinkit DashBoard
 The Blinkit Dashboard is a comprehensive Power BI project aimed at analyzing operational and business data for Blinkit, a quick-commerce company. This dashboard serves as a visual and analytical tool to derive actionable insights from raw data, supporting decision-making in areas such as order processing, delivery performance, customer behavior, and overall business efficiency.
 
 
