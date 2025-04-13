@@ -3,6 +3,7 @@ The Blinkit Dashboard is a comprehensive Power BI project aimed at analyzing ope
 
 
 ## STEPS IN PROJECT
+
  Requirement Gathering / Business Requirements
  Data Walkthrough
  Data Connection
