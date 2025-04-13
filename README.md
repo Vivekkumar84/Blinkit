@@ -1,4 +1,4 @@
-# Blinkit Analysis DashBoard
+# Blinkit Analysis 
 The Blinkit Dashboard is a comprehensive Power BI project aimed at analyzing operational and business data for Blinkit, a quick-commerce company. This dashboard serves as a visual and analytical tool to derive actionable insights from raw data, supporting decision-making in areas such as order processing, delivery performance, customer behavior, and overall business efficiency.
 
 
@@ -43,26 +43,42 @@ Average Rating: The average customer rating for items sold.
 
 ### Chart’s Requirements
 
-1 Total Sales by Fat Content
+1. Total Sales by Fat Content
 
 Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 Chart Type: Donut Chart.
 
-2 Total Sales by Item Type
+2. Total Sales by Item Type
 
 Objective: Identify the performance of different item types in terms of total sales.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 Chart Type: Bar Chart.
 
-3 Fat Content by Outlet for Total Sales
+3. Fat Content by Outlet for Total Sales
 
 Objective: Compare total sales across different outlets segmented by fat content.
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 Chart Type: Stacked Column Chart.
 
-4 Total Sales by Outlet Establishment
+4. Total Sales by Outlet Establishment
 
 Objective: Evaluate how the age or type of outlet establishment influences total sales.
 Chart Type: Line Chart.
+
+5. Sales by Outlet Size:
+Objective: Analyze the correlation between outlet size and total sales.
+Chart Type: Donut/ Pie Chart.
+
+6. Sales by Outlet Location:
+Objective: Assess the geographic distribution of sales across different locations.
+Chart Type: Funnel Map.
+
+7. All Metrics by Outlet Type:
+Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
+Chart Type: Matrix Card.
+
+ # <center> Dashboard </center>
+ ![image](https://github.com/user-attachments/assets/040a5e6b-321c-4ea3-9d46-460df33dcfd4)
+
 
